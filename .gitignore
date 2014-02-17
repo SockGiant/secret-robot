@@ -4,3 +4,51 @@
 *.jar
 *.war
 *.ear
+
+<!DOCTYPE html>
+
+<head>
+
+<style>
+body {
+    text-align: center;
+    background: url("http://images3.wikia.nocookie.net/__cb20091011152623/uncyclopedia/images/7/7d/Ging_retard.jpg");
+    color: black;
+    font-family: Helvetica;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding: 12px;
+    font-size: 18px;
+}
+p {
+    font-size: 24px;
+}
+input {
+    border: 0;
+}
+input[type="submit"] {
+        background: black;
+        color: white;
+}
+input[type="email"] {
+    background: black;
+    color: white;
+}
+</style>
+
+</head>
+
+<body>
+
+<img src="http://www.troll.me/images/brick-tamland/what-a-fucking-retard.jpg" height="250" width="250">
+
+<p>
+Congratulations, you're a fucking retard.
+</p>
+
+<input type="email" placeholder="Email">
+<input type="submit">
+
+</body>
